@@ -43,7 +43,7 @@ The updated database of Airparif can be downloaded here as a shapefile [here](ht
 
 The downloaded folder should contain 6 files:
 
-![Image](https://github.com/AlexEPF/EPF-RUDN-pollution_covid/blob/master/fichiers.jpg)
+![Image](https://github.com/AlexEPF/EPF-RUDN-pollution_covid/blob/master/fichiers.png)
  
 
 Feel free to contact us if you have any issue:
