@@ -5,7 +5,7 @@
 This project was developed for the Geospatial Programming class of Spring 2020, an international collaboration between two universities, [EPF](https://www.epf.fr/) of France and [RUDN](http://www.rudn.ru) of Russia.
 
 We are Nicolas and Alex, two engineering students at the EPF and we made this program under the supervision of [Naci Dilekli](https://github.com/ndilekli/).
-
+‪C:\Users\Alex\Pictures\DJI_0009.JPG
 Our project is used to highlight the improvement of air quality in relation to confinement due to covid-19 in Paris region. More precisely, it can be used to compare NO2 levels in Paris between two dates. It is also able to determine the number of people whose decrease of pollution is above certain value entered by the user.
 
 The user can choose the date he or she wants, between 2017 and 2020, and to determine the threshold of decrease of pollution.
