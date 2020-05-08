@@ -16,7 +16,7 @@ First, the user is asked to enter the root of the folder where the databases is 
 
 #PHOTO
 
-![Image](https://github.com/AlexEPF/EPF-RUDN-pollution_covid/Images/graph1.jpg)
+![Image](https://github.com/AlexEPF/EPF-RUDN-pollution_covid/blob/master/fichiers.jpg)
 
 With the root: `“C:/Documents/ArcGIS/Airparif/”` (do not forget “`/`” at the end).
 
