@@ -47,5 +47,7 @@ The downloaded folder should contain 6 files:
  
 
 Feel free to contact us if you have any issue:
+
 alex.paysant-tholi@epfedu.fr
+
 nicolas.beraud@epfedu.fr
