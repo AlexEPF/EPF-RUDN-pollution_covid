@@ -14,9 +14,7 @@ To run the code the module arcpy must be installed. Therefore, ArcGIS should pro
 
 First, the user is asked to enter the root of the folder where the databases is located and where new files will be created. The folder must be organised like that:
 
-#PHOTO
-
-![Image](https://github.com/AlexEPF/EPF-RUDN-pollution_covid/blob/master/fichiers.jpg)
+![Image](https://github.com/AlexEPF/EPF-RUDN-pollution_covid/blob/master/dossier.jpg)
 
 With the root: `“C:/Documents/ArcGIS/Airparif/”` (do not forget “`/`” at the end).
 
@@ -31,8 +29,8 @@ The next cell allows to run a user interface (orange underlined title for a bett
 
 For varDelta, the threshold asked is the maximum threshold until which the user wants to plot the graph (maximum of the abscissa axis). What is at stake with the varDelta function is to plot a graph showing the number of people as a function of the variation of pollution they have seen between two dates. It can be useful to plot two graphs with the same maximum threshold and the same first date but with different second dates. For example, one analysis with the second date before the confinement and another one with the second date during the confinement. This way, it is possible to get a result such as the following one showing an increase in the number of inhabitants living in an area where air quality has improved since the beginning of the confinement:
 
-2PHOTOS
--------
+![Image](https://github.com/AlexEPF/EPF-RUDN-pollution_covid/blob/master/graph1.jpg)
+![Image](https://github.com/AlexEPF/EPF-RUDN-pollution_covid/blob/master/graph2.jpg)
 
 At the end of the code, there is an extra function, `Pop_pollu` function, which returns only the number of inhabitants whom pollution has fallen by a certain threshold between two user-defined dates. As it creates corresponding files in the folder, this function is mostly useful to see the results, layers, rasters... in ArcGIS. This last function has its own user interface (title in orange) contained in the last cell of the notebook.
 
@@ -41,13 +39,11 @@ The database containing the pollution record at different measuring stations in 
 
 The updated database of Airparif can be downloaded here as a shapefile [here](https://data-airparif-asso.opendata.arcgis.com/datasets/mes-idf-horaire-no2/data?geometry=1.464,48.491,3.304,49.124).
 
-#PHOTO
-
- 
+ ![Image](https://github.com/AlexEPF/EPF-RUDN-pollution_covid/blob/master/database.jpg)
 
 The downloaded folder should contain 6 files:
 
-#PHOTO
+![Image](https://github.com/AlexEPF/EPF-RUDN-pollution_covid/blob/master/fichiers.jpg)
  
 
 Feel free to contact us if you have any issue:
