@@ -16,6 +16,8 @@ First, the user is asked to enter the root of the folder where the databases is 
 
 #PHOTO
 
+![Image](https://github.com/AlexEPF/EPF-RUDN-pollution_covid/Images/graph1.jpg)
+
 With the root: `“C:/Documents/ArcGIS/Airparif/”` (do not forget “`/`” at the end).
 
 In the Jupyter notebook, there are three main functions using other subfunctions:
